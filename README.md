@@ -17,4 +17,4 @@
 - **Clarity Crusade:** Crafting and experimenting with smart contracts using Clarity.
 
 🔗 **Let's Connect!**
-I'm all about collaborations and discussions! Let's [link up on LinkedIn](https://www.linkedin.com/in/biwas-bhandari-261a15255/) and cook up something awesome together!
+I'm all about collaborations and discussions! Let's [link up on Twitter](https://twitter.com/biwas2059) and cook up something awesome together!
