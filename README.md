@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Biwas Bhandari, your Frontend Maestro! 🚀
+# Hi there! 👋 I'm Biwas Bhandari🚀
 
 ## 💻 Tech Stack
 Mastering the art of:
