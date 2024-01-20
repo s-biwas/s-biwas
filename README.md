@@ -5,6 +5,7 @@ Mastering the art of:
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 - React.js
 - Next.js
 - Tailwind CSS
@@ -14,7 +15,7 @@ Creating interfaces that users adore at first click.
 
 ## 🔍 Current Expedition
 Diving into the enchanting world of Web Development with a focus on:
-- Next.js
+- Node.js
 - Tailwind CSS
 - MongoDB
 
